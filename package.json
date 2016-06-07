@@ -1,0 +1,17 @@
+{
+  "name": "spaces",
+  "version": "0.0.1",
+  "description": "Helps people go to space",
+  "main": "src/spaces.js",
+  "author": "Victor Gama <hey@vito.io>",
+  "contributors": ["Jonathan Querubina <jotadev@me.com>"],
+  "license": "MIT",
+  "giskard": {
+    "module": "Spaces",
+    "created": "Tue Jun 07 2016 15:20:20 GMT-0300 (BRT)",
+    "help": {
+      "me coloca de spaces <quando>": "Te coloca de spaces no periodo informado (o dia todo, hoje, pela manha, a tarde)"
+    }
+  },
+  "dependencies": {}
+}
